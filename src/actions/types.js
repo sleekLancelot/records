@@ -1,0 +1,8 @@
+export const GET_RECORD = 'GET_RECORD'
+export const SEARCH_RECORDS = 'SEARCH_RECORDS'
+export const CLEAR_FILTER = 'CLEAR_FILTER'
+export const RECORDS_ERROR = 'RECORDS_ERROR'
+export const CLEAR_RECORDS = 'CLEAR_RECORDS'
+export const SET_LOADING = 'SET_LOADING'
+export const SET_ALERT = 'SET_ALERT'
+export const REMOVE_ALERT = 'REMOVE_ALERT'
